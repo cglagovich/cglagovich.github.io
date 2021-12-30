@@ -1,6 +1,6 @@
-layout: page
+layout: post
 title: "Twelve Projects"
-permalink: /posts/twelve/
+date: 2021-12-30
 
 
 
