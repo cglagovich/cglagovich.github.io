@@ -9,5 +9,4 @@ The plan in 2022 is to read at least one book per week. A week after each book i
 
 By reading across a large variety of subjects (classic literature, philosophy, geography, history, the physical sciences, math, computer science, science fiction, etc.) one can expand their knowledge tree and build the foundation that further learning will fit into. By further diving into areas of specialty, such as deep learning and computer science, one can become an expert in the field.
 
-Aside: A PhD student's job is to become a field expert. This involves reading or knowing of all of the relevant papers in that field, understanding the foundations of the larger umbrella field, and contributing usefully to this field. One typically achieves that goal:wq
-
+My [goodreads](https://www.goodreads.com/review/list/128530218-colman-glagovich?ref=nav_mybooks) will keep an up-to-date list of the books I've read. 
