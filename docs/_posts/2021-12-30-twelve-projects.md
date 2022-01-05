@@ -4,8 +4,6 @@ title: "Twelve Projects"
 date: 2021-12-30
 ---
 
-
-#Twelve Projects
 ## Big Ideas
 - How to track blobs in space and on ground with low resources
 - How to instantly identify stereo matches in two event streams
@@ -16,7 +14,7 @@ date: 2021-12-30
 - A language model should understand language, not facts. How do you teach it to query facts and construct a meaningful response from a text source?
 
 
-##Unordered and Unpruned
+## Unordered and Unpruned
 - tracking blobs with event camera and FPGA asynchronously for trajectory estimation
 - stereo vision correspondence with event cameras and FPGA parallel processing
 - event stream autoencoder with transformer to pretrain encoder

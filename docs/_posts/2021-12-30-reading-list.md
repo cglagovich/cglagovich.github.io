@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Reading in 2022"
+date: 2021-12-30
+---
+
+## Reading
+The plan in 2022 is to read at least one book per week. A week after each book is finished, I'll write up a short summary and review. The idea behind this is there's so much knowledge contained in each book that would be impossible to reliably find elsewhere. The filtering process behind writing and publishing and reviews and best-of-charts means you can find what's really worth spending time reading.
+
+By reading across a large variety of subjects (classic literature, philosophy, geography, history, the physical sciences, math, computer science, science fiction, etc.) one can expand their knowledge tree and build the foundation that further learning will fit into. By further diving into areas of specialty, such as deep learning and computer science, one can become an expert in the field.
+
+Aside: A PhD student's job is to become a field expert. This involves reading or knowing of all of the relevant papers in that field, understanding the foundations of the larger umbrella field, and contributing usefully to this field. One typically achieves that goal:wq
+
