@@ -2,6 +2,7 @@
 layout: post
 title: "Atlas Shrugged Part 1"
 date: 2022-4-2
+published: false
 ---
 
 ## Atlas Shrugged Part 1 Recap

@@ -2,6 +2,7 @@
 layout: post
 title: "Deconstructing SORA"
 date: 2024-04021
+published: false
 ---
 
 This post goes into my best guess at OpenAI's SORA architecture. We will "delve" into which methods they picked up from the research, inference FLOPs, and future architectural optimizations. 
