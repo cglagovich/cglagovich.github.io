@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Reading in 2022"
-date: 2021-12-30
+title: "Deep dive into Llama3.2 vision models"
+date: 2024-10-06
 published: false
-hidden: true
 ---
 
 ## Reading

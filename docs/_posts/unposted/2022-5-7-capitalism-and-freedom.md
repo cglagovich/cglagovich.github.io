@@ -3,6 +3,7 @@ layout: post
 title: "Review of Capitalism and Freedom"
 date: 2022-5-7
 published: false
+hidden: true
 ---
 
 Context: I read Milton Friedman's "Capitalism and Freedom" after listening to the entirety of his lecture series from the late 1970s. These lectures spoke and put words to my understandings of the world that had not yet solidified. With a logical method of analysing economic policy, especially those of America since the Great Depression as case studies, the mysteries of social and economic effects can be understood and predicted. Some exemplary points that Milton makes which are not widely understood:

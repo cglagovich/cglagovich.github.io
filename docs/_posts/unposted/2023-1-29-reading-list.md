@@ -3,6 +3,7 @@ layout: post
 title: "2023 Reading and Blogging update"
 date: 2023-1-29
 published: false
+hidden: true
 ---
 
 This is sort of a mega post with a few ideas. It might act as a persistant storage of lists, ideas, plans, or it might not.
