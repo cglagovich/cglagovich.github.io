@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deconstructing SORA"
-date: 2024-04021
+date: 2024-04-21
 published: false
 ---
 
