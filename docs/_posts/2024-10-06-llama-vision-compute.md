@@ -118,6 +118,7 @@ c_proj: (4128 * 5120 + 5120 * 1280 + 4128 * 1280) * 2 = 65,945,600
 This sums to `271,810,560` Bytes moved per transformer layer.
 
 If we put it in a table:
+
 | n layers | GFLOPs | MB moved | 
 | -------- | ------ | -------- |
 | 1 | 249 | 271 |
